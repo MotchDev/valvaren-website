@@ -1,0 +1,12 @@
+[
+  {
+    "id": "hognose-ramen-bowl",
+    "title": "Hognose Ramen Bowl",
+    "category": "snacks",
+    "image": "/home/products/hognose-ramen-bowl.jpg",
+    "imageHeight": 2000,
+    "imageWidith": 1505,
+    "price": "60-100 USD",
+    "clipPath": "clip-path-blob-5"
+  }
+]
