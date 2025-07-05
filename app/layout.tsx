@@ -6,10 +6,12 @@ import Footer from '@/components/layout/Footer'
 
 const inter = Inter({
   variable: '--font-inter',
+  subsets: ['latin'],
 })
 
 const gluten = Gluten({
   variable: '--font-gluten',
+  subsets: ['latin'],
 })
 
 export const metadata: Metadata = {
