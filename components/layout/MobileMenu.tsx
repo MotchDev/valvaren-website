@@ -1,5 +1,5 @@
+'use client'
 import Link from 'next/link'
-
 interface MobileMenuProps {
   isOpen: boolean
   onClose: () => void
@@ -44,11 +44,11 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
               Home
             </Link>
             <Link
-              href="/commision"
+              href="/commissions"
               className="text-gray-700 hover:text-gray-900 text-4xl uppercase font-heading py-2 border-b border-gray-100"
               onClick={onClose}
             >
-              Commision
+              Commissions
             </Link>
             <Link
               href="/about"

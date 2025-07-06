@@ -1,6 +1,8 @@
+'use client'
 import Image from 'next/image'
 import categories from '@/data/categories.json'
 import products from '@/data/products.json'
+import { FilloutStandardEmbed } from '@fillout/react'
 
 export default function Home() {
   const categoriesWithItems = categories

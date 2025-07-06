@@ -44,10 +44,10 @@ export default function Header() {
                 Home
               </Link>
               <Link
-                href="/commision"
+                href="/commissions"
                 className="text-gray-700 hover:text-gray-900 text-2xl uppercase font-heading"
               >
-                Commision
+                Commissions
               </Link>
               <Link
                 href="/about"

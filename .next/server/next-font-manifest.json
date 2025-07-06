@@ -1,6 +1,23 @@
 {
-  "app": {},
-  "appUsingSizeAdjust": false,
+  "app": {
+    "[project]/app/_not-found/page": [
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.0faac26c.woff2",
+      "static/media/HhyIU5gk9fW7OUdVIPh2zD_RSqQJ__A1zDQhQ4UeNrg-s.p.8c8b4404.woff2"
+    ],
+    "[project]/app/about/page": [
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.0faac26c.woff2",
+      "static/media/HhyIU5gk9fW7OUdVIPh2zD_RSqQJ__A1zDQhQ4UeNrg-s.p.8c8b4404.woff2"
+    ],
+    "[project]/app/commissions/page": [
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.0faac26c.woff2",
+      "static/media/HhyIU5gk9fW7OUdVIPh2zD_RSqQJ__A1zDQhQ4UeNrg-s.p.8c8b4404.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-s.p.0faac26c.woff2",
+      "static/media/HhyIU5gk9fW7OUdVIPh2zD_RSqQJ__A1zDQhQ4UeNrg-s.p.8c8b4404.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
   "pages": {},
   "pagesUsingSizeAdjust": false
 }
